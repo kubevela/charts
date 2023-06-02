@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   vela-core:
   - apiVersion: v2
+    appVersion: 1.9.0-beta.2
+    created: "2023-06-02T10:03:07.651843507Z"
+    description: A Helm chart for KubeVela core
+    digest: 4e98c648b96fca437d379c3f6391024d540a362fc7b26d9ccdf3e75332e40684
+    home: https://kubevela.io
+    icon: https://kubevela.io/img/logo.svg
+    name: vela-core
+    type: application
+    urls:
+    - https://kubevela.github.io/charts/vela-core-1.9.0-beta.2.tgz
+    version: 1.9.0-beta.2
+  - apiVersion: v2
     appVersion: 1.9.0-beta.1.post1
-    created: "2023-06-02T02:08:53.497998147Z"
+    created: "2023-06-02T10:03:07.645246347Z"
     description: A Helm chart for KubeVela core
     digest: 23c18a88512ef3188de5fe8a50dba21c140d73a27cfb57028f4423844d9cf779
     home: https://kubevela.io
@@ -15,7 +27,7 @@ entries:
     version: 1.9.0-beta.1.post1
   - apiVersion: v2
     appVersion: 1.8.2
-    created: "2023-06-02T02:08:53.486082851Z"
+    created: "2023-06-02T10:03:07.635762061Z"
     description: A Helm chart for KubeVela core
     digest: 100d9990db673b24bb66b42113ff162eb5a95be2c7ebaa53f72c723846bc955a
     home: https://kubevela.io
@@ -27,7 +39,7 @@ entries:
     version: 1.8.2
   - apiVersion: v2
     appVersion: 1.7.7
-    created: "2023-06-02T02:08:53.480249904Z"
+    created: "2023-06-02T10:03:07.628354594Z"
     description: A Helm chart for KubeVela core
     digest: af72f55522687ff18e279af7ac226e80d2a1b790e95f06942fcfda54aab54b4c
     home: https://kubevela.io
@@ -39,7 +51,7 @@ entries:
     version: 1.7.7
   - apiVersion: v2
     appVersion: 1.6.8
-    created: "2023-06-02T02:08:53.472598343Z"
+    created: "2023-06-02T10:03:07.61917761Z"
     description: A Helm chart for KubeVela core
     digest: 1293dbdb39452e638d2b1fbbce3d9ed9ed2fece6822438eea4436e89b7f1cc59
     home: https://kubevela.io
@@ -51,7 +63,7 @@ entries:
     version: 1.6.8
   - apiVersion: v2
     appVersion: 1.5.11
-    created: "2023-06-02T02:08:53.465736487Z"
+    created: "2023-06-02T10:03:07.608480913Z"
     description: A Helm chart for KubeVela core
     digest: a74f4af89819741a3fcb770c5f02a564a10a4b6eae6d6216f927891ecb143e78
     home: https://kubevela.io
@@ -64,7 +76,7 @@ entries:
   vela-prism:
   - apiVersion: v1
     appVersion: 1.6.0
-    created: "2023-06-02T02:08:53.498476451Z"
+    created: "2023-06-02T10:03:07.652456513Z"
     description: A Helm chart for KubeVela API Extensions
     digest: 9636fdd0657d29b7b04d3bd6b80c4b93c03a3a9c4ee5de07b6bda3cab0984d17
     home: https://github.com/kubevela/vela-prism
@@ -77,7 +89,7 @@ entries:
   vela-workflow:
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2023-06-02T02:08:53.502406283Z"
+    created: "2023-06-02T10:03:07.66094429Z"
     description: A Helm chart for KubeVela Workflow
     digest: b878779139d730f2794b4929186c6d3286c4bd4b6a18a96f6e2a99030d3826f6
     home: https://kubevela.io
@@ -89,7 +101,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.4.3
-    created: "2023-06-02T02:08:53.500499368Z"
+    created: "2023-06-02T10:03:07.656232547Z"
     description: A Helm chart for KubeVela Workflow
     digest: 718f97245954b6e77b2d023c53686315760329001436e50e23b4c8ec55c81f55
     home: https://kubevela.io
@@ -99,4 +111,4 @@ entries:
     urls:
     - https://kubevela.github.io/charts/vela-workflow-0.4.3.tgz
     version: 0.4.3
-generated: "2023-06-02T02:08:53.458320828Z"
+generated: "2023-06-02T10:03:07.59493369Z"
